@@ -1,0 +1,14 @@
+com\devteria\identity_service\Exception\GlobalExceptionHandler.class
+com\devteria\identity_service\mapper\UserMapper.class
+com\devteria\identity_service\repository\UserRepository.class
+com\devteria\identity_service\dto\request\ApiResponse.class
+com\devteria\identity_service\entity\User.class
+com\devteria\identity_service\mapper\UserMapperImpl.class
+com\devteria\identity_service\dto\request\UserUpdateRequest.class
+com\devteria\identity_service\dto\request\UserUpdateRequest$UserUpdateRequestBuilder.class
+com\devteria\identity_service\dto\request\UserCreationRequest.class
+com\devteria\identity_service\controller\UserController.class
+com\devteria\identity_service\service\UserService.class
+com\devteria\identity_service\Exception\ErrorCode.class
+com\devteria\identity_service\IdentityServiceApplication.class
+com\devteria\identity_service\Exception\AppException.class
